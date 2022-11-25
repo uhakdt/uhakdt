@@ -1,6 +1,6 @@
 Hi 😬
 
-My name is Mier Rashid. I am a software engineer living in the UK.
+My name is Mier Rashid. I am a software engineer living at the UK Hydrographic Office. 
 I am Kurdish, with a German citizenship, living in the UK.
 
 I am a software engineer at the UK Hydrographic Office.
